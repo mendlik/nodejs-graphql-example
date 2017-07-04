@@ -1,0 +1,8 @@
+{
+  posts(tags: ["taga"]) {
+    id,
+    title,
+    tags,
+    timestamp
+  }
+}

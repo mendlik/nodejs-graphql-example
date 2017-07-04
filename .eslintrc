@@ -1,0 +1,3 @@
+extends: 'coditorium/base'
+rules:
+  no-console: 0
